@@ -11,4 +11,4 @@ Custom gruvbox theme dotfiles running on omarchy.
 - Toggle for HP Victus 15 Laptop only.
 
 ## Note
-This dotfile is nothing really special, it is just base omarchy with Custom waybar and few custom scripts 
+This dotfile is nothing really special, it is just base omarchy (gruvbox theme) with Custom waybar and few custom scripts 
